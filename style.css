@@ -1,0 +1,30 @@
+#heading {
+    font-family: "Shrikhand", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top:50px;
+    color: #e8b877;
+}
+#subheading {
+  font-family: "Chivo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  color:#f3d1a1;
+}
+body {
+    background-color: #669fb2;
+}
+#takepic {
+    margin-top: 400px;
+    margin-right:35px;
+    background-color: #295766;
+    border:transparent;
+    height:40px;
+    width:100px;
+    border-radius:100px;
+    color:#f3d1a1;
+    font-family: "Chivo", sans-serif;
+    font-weight:bolder;
+    font-size:20px;
+}
